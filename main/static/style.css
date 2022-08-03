@@ -1,0 +1,39 @@
+.container.content{
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    border-radius: 15px;
+    max-width: 390px;
+}
+.container.content.form{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #76d0eb;
+    border-radius: 15px;
+    max-width: 390px;
+}
+.col-8.h{
+    margin-right: 13px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
+.container.content.form{
+    padding: 14px;
+    padding-top: 30px;
+}
+.text-center{
+    margin-top: 2%;
+}
+.btn.btn-light{
+    width: 21%;
+    background-color: grey;
+}
+.dropdown-menu{
+    position: absolute;
+}
+ul{
+    position: absolute;
+}
